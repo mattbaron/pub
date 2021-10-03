@@ -1,4 +1,5 @@
-In `tasks.json`, the first task, with `kind == build` and `isDefault == true` is the default build task, which, with default VSCode key bindings, is run with
+# Tasks
+In `tasks.json`, the first task, with `kind == build` and `isDefault == true`, is the default build task, which, with default VSCode key bindings, is run with
 `Shift+Cmd+b`.
 
 ```
